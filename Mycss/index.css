@@ -1,0 +1,80 @@
+.header {
+    margin-top: 0;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    display: block;
+}
+.header{
+   display: block;
+   margin-top: 0px;
+  /* margin-left: 400px;
+  margin-right: 400px; */
+  /* border-top: solid 3px;
+  border-bottom: solid 3px; */
+  background-color: rgb(41, 49, 49);
+  
+  
+
+}
+
+#container{
+   
+}
+.contents{
+   height:529px;
+   background-color: rgb(243, 237, 237);
+}
+/* body{
+    background-image: url(img/bg_sakura.jpg);
+} */
+
+img{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+img:hover{
+    opacity: 70%;
+    
+}
+.box{
+    display: block; 
+    width: 600px;
+    height: 400px;
+    border: solid 1px;
+    border-radius: 5%;
+    float: left;
+    text-align: center;
+    border-color: dimgray;
+}
+.box:hover{
+    background-color: darkgrey;
+}
+div.topic{
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-weight: 300;
+     
+    
+}
+.footer{
+    display: block;;
+    background-color: rgb(41, 49, 49);
+    height: 100px;
+   
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    padding-left: 90px;
+    
+   
+}
+a{
+
+    text-decoration: none;
+}

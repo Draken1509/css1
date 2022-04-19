@@ -1,0 +1,28 @@
+.ex1 img { 
+    width:200px;
+    height:200px;
+    opacity:0.5;
+}
+.ex1 img:hover{
+    opacity: 1;
+}
+
+
+.ex2  {
+    margin-left: 20%;
+    background-image: url(../Image/cucdai.jpg);
+    background-repeat: repeat-x;
+    padding: 15px;
+    width:850px;
+    height:150px;
+    background-size: 300px;
+}
+.box_ex2{
+   
+    background-color:beige;
+    margin-right: 400px;
+    margin-top: 40px;
+    padding: 25px;
+    opacity:50%;
+    font-weight: 500px;
+}

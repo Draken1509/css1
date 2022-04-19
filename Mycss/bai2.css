@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box; 
+    /* Nó sẽ không cộng dồn khoảng cách khi padding */
+  }
+        #SV_2001206944_contanier{
+             width: 1000px;
+             display: block;
+             margin-left: auto;
+             margin-right: auto;
+            height: auto ;
+        }
+        #SV_2001206944_header{
+            /* height: 200px; */
+            background-color:#ccc ;
+            font-size: 50px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 30px;
+            font-weight: 600;
+        }
+        #SV_2001206944_banner{
+            /* height: 90px; */
+            padding: 30px;
+            background-color: lightskyblue;
+            font-weight: 600;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 5px;
+        }
+        #SV_2001206944_navigation{
+            /* height: 70px; */
+            padding: 25px;
+            background-color:lightseagreen;
+            font-weight: 600;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 5px;
+        }
+        #sv_2001206944_Menu_side_bar{
+            float: left;
+            background-color: #666;
+            width: 30%;
+            height: 300px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+      
+        #sv_2001206944_content{
+            float: left;
+            background-color: #777;
+            width: 40%;
+            height: 300px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #sv_2001206944_sidebar_qc{
+            float: left;
+            background-color: #ccc;
+            width: 30%;
+            height: 300px;      
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #sv_2001206944_footer{
+           
+            padding-top: 40px;
+            background-color: rgb(208, 222, 234);
+            text-align: center;
+            height: 100px;
+            font-family: Arial, Helvetica, sans-serif;
+            display: block;
+            clear:both;
+        }
